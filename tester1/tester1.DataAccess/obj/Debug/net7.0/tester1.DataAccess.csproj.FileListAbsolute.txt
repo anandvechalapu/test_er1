@@ -13,3 +13,11 @@ C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.DataAccess\obj\Debug\net7.
 C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.DataAccess\obj\Debug\net7.0\refint\tester1.DataAccess.dll
 C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.DataAccess\obj\Debug\net7.0\tester1.DataAccess.pdb
 C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.DataAccess\obj\Debug\net7.0\ref\tester1.DataAccess.dll
+C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.DataAccess\obj\Debug\net7.0\tester1.DataAccess.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.DataAccess\obj\Debug\net7.0\tester1.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.DataAccess\obj\Debug\net7.0\tester1.DataAccess.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.DataAccess\obj\Debug\net7.0\tester1.DataAccess.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.DataAccess\obj\Debug\net7.0\tester1.DataAccess.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.DataAccess\obj\Debug\net7.0\tester1.DataAccess.dll
+C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.DataAccess\obj\Debug\net7.0\refint\tester1.DataAccess.dll
+C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.DataAccess\obj\Debug\net7.0\tester1.DataAccess.pdb
