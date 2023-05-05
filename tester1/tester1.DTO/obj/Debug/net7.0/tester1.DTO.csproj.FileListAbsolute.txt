@@ -46,3 +46,15 @@ C:\Amar\Debug\Apps\1\684\202305052655\tester1\tester1.DTO\obj\Debug\net7.0\teste
 C:\Amar\Debug\Apps\1\684\202305052655\tester1\tester1.DTO\obj\Debug\net7.0\refint\tester1.DTO.dll
 C:\Amar\Debug\Apps\1\684\202305052655\tester1\tester1.DTO\obj\Debug\net7.0\tester1.DTO.pdb
 C:\Amar\Debug\Apps\1\684\202305052655\tester1\tester1.DTO\obj\Debug\net7.0\ref\tester1.DTO.dll
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\bin\Debug\net7.0\tester1.DTO.deps.json
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\bin\Debug\net7.0\tester1.DTO.dll
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\bin\Debug\net7.0\tester1.DTO.pdb
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\obj\Debug\net7.0\tester1.DTO.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\obj\Debug\net7.0\tester1.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\obj\Debug\net7.0\tester1.DTO.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\obj\Debug\net7.0\tester1.DTO.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\obj\Debug\net7.0\tester1.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\obj\Debug\net7.0\tester1.DTO.dll
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\obj\Debug\net7.0\refint\tester1.DTO.dll
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\obj\Debug\net7.0\tester1.DTO.pdb
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.DTO\obj\Debug\net7.0\ref\tester1.DTO.dll

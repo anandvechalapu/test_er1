@@ -56,3 +56,6 @@ C:\Amar\Debug\Apps\1\658\202305050741\tester1\tester1.API\obj\Debug\net7.0\teste
 C:\Amar\Debug\Apps\1\684\202305052655\tester1\tester1.API\obj\Debug\net7.0\tester1.API.dll
 C:\Amar\Debug\Apps\1\684\202305052655\tester1\tester1.API\obj\Debug\net7.0\refint\tester1.API.dll
 C:\Amar\Debug\Apps\1\684\202305052655\tester1\tester1.API\obj\Debug\net7.0\tester1.API.pdb
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.API\obj\Debug\net7.0\tester1.API.dll
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.API\obj\Debug\net7.0\refint\tester1.API.dll
+C:\Amar\Debug\Apps\1\685\202305053604\tester1\tester1.API\obj\Debug\net7.0\tester1.API.pdb
