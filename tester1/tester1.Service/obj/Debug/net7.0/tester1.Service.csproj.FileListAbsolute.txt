@@ -1,0 +1,17 @@
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\bin\Debug\net7.0\tester1.Service.deps.json
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\bin\Debug\net7.0\tester1.Service.dll
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\bin\Debug\net7.0\tester1.Service.pdb
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\bin\Debug\net7.0\tester1.DataAccess.dll
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\bin\Debug\net7.0\tester1.DTO.dll
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\bin\Debug\net7.0\tester1.DTO.pdb
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\bin\Debug\net7.0\tester1.DataAccess.pdb
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.csproj.CopyComplete
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.dll
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\refint\tester1.Service.dll
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.pdb
+C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\ref\tester1.Service.dll
