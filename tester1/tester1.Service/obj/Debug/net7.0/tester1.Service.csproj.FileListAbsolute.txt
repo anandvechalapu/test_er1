@@ -18,3 +18,6 @@ C:\Amar\Debug\Apps\1\655\202305053922\tester1\tester1.Service\obj\Debug\net7.0\r
 C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.dll
 C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.Service\obj\Debug\net7.0\refint\tester1.Service.dll
 C:\Amar\Debug\Apps\1\657\202305055830\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.pdb
+C:\Amar\Debug\Apps\1\658\202305050741\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.dll
+C:\Amar\Debug\Apps\1\658\202305050741\tester1\tester1.Service\obj\Debug\net7.0\refint\tester1.Service.dll
+C:\Amar\Debug\Apps\1\658\202305050741\tester1\tester1.Service\obj\Debug\net7.0\tester1.Service.pdb
